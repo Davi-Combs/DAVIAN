@@ -110,6 +110,13 @@ h1, h2 {
 #userInput::placeholder {
   color: #bbb;
 }
+#messages {
+  flex: 1;
+  overflow-y: auto;   /* vertical scrollbar */
+  overflow-x: hidden; /* no sideways scrolling */
+  padding-right: 5px;
+  max-height: 400px;  /* adjust as needed */
+}
 
 button {
   padding: 10px 20px;
