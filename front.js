@@ -27,7 +27,10 @@ form.addEventListener("submit", async (e) => {
     appendMessage("Error", "Unable to reach server");
   }
 });
-
+window.addEventListener("beforeunload", (e) => {
+  e.preventDefault();
+  e.returnValue = "";
+});
   function appendMessage(sender, text) {
   const msg = document.createElement("div");
   msg.innerHTML = `<strong>${sender}:</strong> ${text}`;
