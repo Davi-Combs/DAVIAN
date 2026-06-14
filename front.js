@@ -4,8 +4,7 @@ const messagesDiv = document.getElementById("messages");
 const input = document.getElementById("userInput");
 
 // Change this to your deployed Vercel URL
-const API_URL = "https://davian.vercel.app/api/chat";
-
+const API_URL = "ttps://davian.vercel.app/api/chat";
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
