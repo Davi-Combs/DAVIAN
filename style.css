@@ -34,7 +34,7 @@ body {
 
 
 .container {
-  position: absolute;   /* we’ll scatter them later */
+  position: relative;   /* we’ll scatter them later */
   padding: 10px;
   border-radius: 12px;
   background: rgba(255,255,255,0.8); /* light floating bubble */
@@ -52,8 +52,8 @@ h1, h2 {
   border: 2px solid #d4af37;
   border-radius: 6px;
   padding: 10px;
-  min-height: 200px;
-  height: 300px;
+  min-height: 50px;
+  height: auto;
   display: flex;
   flex-direction: column; /* stack messages + form vertically */
   font-size: 14px;
