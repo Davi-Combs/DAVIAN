@@ -52,7 +52,7 @@ h1, h2 {
   border: 2px solid #d4af37;
   border-radius: 6px;
   padding: 10px;
-  min-height: 50px;
+  min-height: 100px;
   height: auto;
   display: flex;
   flex-direction: column; /* stack messages + form vertically */
