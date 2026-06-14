@@ -143,3 +143,6 @@ button:hover {
   display: flex !important;
   border: 3px solid lime !important;
 }
+html, body {
+  overscroll-behavior-y: none;
+}
