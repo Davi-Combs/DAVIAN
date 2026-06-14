@@ -126,3 +126,13 @@ button {
 button:hover {
   background-color: #b8860b;
 }
+
+#messages {
+  min-height: 150px !important;
+  border: 3px solid red !important;
+}
+
+#chatForm {
+  display: flex !important;
+  border: 3px solid lime !important;
+}
