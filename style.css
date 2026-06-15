@@ -3,8 +3,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Courier New", monospace;
-  background-color: #000000; /* dark grey background like fatigues */
-  color: #2e2e2e;
+  background-color: #8A2BE2; /* dark grey background like fatigues */
+  color: #7FFF00;
 }
 
 .page-container {
@@ -21,8 +21,8 @@ body {
   display: grid;
     grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns */
     gap: 10px; /* Adjust the gap between items */
-  background-color: #3a4a3f; /* deep army green */
-  border: 4px solid #1a1a1a;
+  background-color: #00008B; /* deep army green */
+  border: 4px solid #6495ED;
   border-radius: 12px;
   padding: 20px;
   width: 98%;
@@ -40,19 +40,19 @@ body {
   position: relative;   /* we’ll scatter them later */
   padding: 10px;
   border-radius: 12px;
-  background: rgba(255,255,255,0.8); /* light floating bubble */
+  background: rgba(245,40,145,0.8); /* light floating bubble */
   box-shadow: 0px 3px 6px rgba(0,0,0,0.1);
 }
 
 h1, h2 {
-  color: #d4af37; /* gold for contrast */
+  color: #FF1493; /* gold for contrast */
   text-align: center;
   letter-spacing: 2px;
 }
 
 .chatbox {
-  background-color: #2e2e2e;
-  border: 2px solid #d4af37;
+  background-color: #00FF00;
+  border: 2px solid #FF00FF;
   border-radius: 6px;
   padding: 10px;
   min-height: 100px;
@@ -60,7 +60,7 @@ h1, h2 {
   display: flex;
   flex-direction: column; /* stack messages + form vertically */
   font-size: 14px;
-  color: #f4f4f4;
+  color: #000000;
 
   /* resizable */
   resize: both;
