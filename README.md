@@ -35,7 +35,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 <img src="images/Alpacablow.jpg"> <!-->width="250" height="250"/>-->
 </p>
 
-![banner]()<br><br>
+
 
 
 <h2 align="center">ⓂMOTTO</h2>
@@ -51,7 +51,13 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 ![main](images/Rainbowpaci.jpg)
 
----
+
+
+<p align="center">
+<img src="images/Al.jpg" width="204" height="300"/>
+</p>
+
+
 
 <h1 align="center">📲COMMUNICATION STYLE</h1>
 
