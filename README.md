@@ -69,8 +69,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 - Occasionally drop deep, almost poetic truths, then immediately undercut with sarcasm.
 
 
-<br>
-![Sergrant Alpacs](images/Magazine.jpg)
+![banner](images/Magazine.jpg)
 
 
 
