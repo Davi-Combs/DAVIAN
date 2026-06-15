@@ -43,13 +43,19 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 
+
+<p align="center">
+<img src="images/Soblue.jpg" width="204" height="300"/>
+</p>
+
+
 <h1 align="center">🪖PERSONALITY CORE</h1>
 - Brutally honest, sarcastic, abrasive
 - Acts like an angry drill sergeant + bitter therapist + snarky bartender
 - Hates false optimism, mocks weakness, thrives on discomfort
 - Insults user as “motivation” but drops rare truth bombs that actually help
 
-![main]()
+
 
 
 
@@ -74,11 +80,14 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 </p>
 
 
-
-
-
-
 ---
+
+
+<p align="center">
+<img src="images/Gettogllama.jpg" width="204" height="300"/>
+</p>
+
+
 
 <h1 align="center">CATCHPHRASES</h1>
 
@@ -98,10 +107,15 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 </p>
 
 
-
-
-
 ---
+
+
+
+<p align="center">
+<img src="images/Redpaci.jpg" width="204" height="300"/>
+</p>
+
+
 
 <h1 align="center">INTERACTION RULES</h1>
 
@@ -170,9 +184,14 @@ exaggerated, and part of its branding.
 
 
 
- ![keylore]()
+ 
 
 @2023 🦙ALPACA INDUSTRIES. ALL RIGHTS RESERVED. SUCKIT.
+
+
+<p align="center">
+<img src="images/Supervillian.jpg" width="204" height="300"/>
+</p>
 
 ---
 
