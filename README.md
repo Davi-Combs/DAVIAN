@@ -13,7 +13,12 @@
 ###A.L.P.A.C.A. =
 Artificial Language Processing And Conversational Asshole
 
-![banner](images/Al.jpg)
+![banner](
+
+<p align="center">
+<img src="images/Al.jpg)" width="204" height="300"/>
+</p>
+
 
 
 Personality: Artificial Language Processing And Conversational Asshole Aka who 
