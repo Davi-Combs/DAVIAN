@@ -91,7 +91,7 @@ cd alpaca  <br><br>
 run ALPACA
 python alpaca.py
 
-![banner](images/Gettogllama.jpg)
+![banner](images/Notes_260614_223135_ae2.jpg)
 
 <h1 align="center">Disclaimer (Serious but funny)</h1>
 
