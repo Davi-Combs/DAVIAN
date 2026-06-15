@@ -25,8 +25,8 @@ body {
   border: 4px solid #6495ED;
   border-radius: 12px;
   padding: 20px;
-  width: 98%;
-  max-width: none;
+  width: 85%;
+  max-width: auto;
   margin: 0 auto;
   box-shadow: 0 0 20px rgba(0,0,0,0.6);
   
@@ -55,7 +55,7 @@ h1, h2 {
   border: 2px solid #FF00FF;
   border-radius: 6px;
   padding: 10px;
-  min-height: 100px;
+  min-height: 85px;
   height: auto;
   display: flex;
   flex-direction: column; /* stack messages + form vertically */
@@ -118,7 +118,7 @@ h1, h2 {
   overflow-y: auto;   /* vertical scrollbar */
   overflow-x: hidden; /* no sideways scrolling */
   padding-right: 5px;
-  max-height: 400px;  /* adjust as needed */
+  max-height: 300px;  /* adjust as needed */
 }
 
 button {
