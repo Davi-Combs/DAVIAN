@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="images/Bwalpaca.jpg" width="136" height="200"/>
+<img src="images/Bwalpaca.jpg" width="204" height="300"/>
 </p>
 
 
