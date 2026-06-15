@@ -137,7 +137,7 @@ python alpaca.py
 
 
 <p align="center">
-<img src="images/Rainbowpaci.jpg" width="204" height="300"/>
+<img src="images/Magician.jpg" width="204" height="300"/>
 </p>
 
 
