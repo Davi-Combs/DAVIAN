@@ -1,7 +1,7 @@
 <h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
 
-![banner](images/Rainbowpaci.jpg)
+![banner](![Sergrant Alpacs](images/Pinkalpaca.jpg))
 
 
 
