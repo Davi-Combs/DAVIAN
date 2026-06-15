@@ -59,7 +59,7 @@ h1, h2 {
   height: auto;
   display: flex;
   flex-direction: column; /* stack messages + form vertically */
-  font-size: 10px;
+  font-size: 18px;
   color: #050203;
 
   /* resizable */
