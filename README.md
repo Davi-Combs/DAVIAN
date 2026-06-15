@@ -1,7 +1,4 @@
-<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
-
-
-![banner](images/Bwalpaca.jpg =136x20p)
+<h1 
 
 
 
