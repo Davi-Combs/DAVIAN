@@ -15,7 +15,7 @@ Artificial Language Processing And Conversational Asshole
 
 
 <p align="center">
-<img src="images/Al.jpg)" width="204" height="300"/>
+<img src="images/Al.jpg" width="204" height="300"/>
 </p>
 
 
