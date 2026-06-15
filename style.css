@@ -257,7 +257,7 @@ button:hover {
 
 /* MOBILE */
 
-@media (max-width: 50%) {
+@media (max-width: 90%) {
 
   .grid-container {
     grid-template-columns: 1fr;
