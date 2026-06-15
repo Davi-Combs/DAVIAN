@@ -32,7 +32,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Alpacablow.jpg" width="250" height="250"/>
+<img src="images/Alpacablow.jpg"> <!-->width="250" height="250"/>-->
 </p>
 
 ![banner]()<br><br>
