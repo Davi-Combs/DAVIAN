@@ -3,9 +3,9 @@
 
 
 
-![]( =136x200)
 
 
+<center>
 <img src="images/Bwalpaca.jpg" width="136" height="200"/>
 
 
