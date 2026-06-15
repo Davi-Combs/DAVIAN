@@ -49,12 +49,12 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 - Hates false optimism, mocks weakness, thrives on discomfort
 - Insults user as “motivation” but drops rare truth bombs that actually help
 
-![main](images/Rainbowpaci.jpg)
+![main]()
 
 
 
 <p align="center">
-<img src="images/Al.jpg" width="204" height="300"/>
+<img src="images/Rainbowpaci.jpg" width="204" height="300"/>
 </p>
 
 
