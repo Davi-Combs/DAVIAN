@@ -32,7 +32,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Alpacablow.jpg"> <!-->width="250" height="250"/>-->
+<img src="images/Alpacablow.jpg">
 </p>
 
 
@@ -94,7 +94,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Alpacablow.jpg)" width="204" height="300"/>
+<img src="images/Alpacablow.jpg" width="204" height="300"/>
 </p>
 
 
@@ -112,7 +112,15 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 - Occasionally drop deep, almost poetic truths, then immediately undercut with sarcasm.
 
 
-![banner](images/Magazine.jpg)
+
+
+<p align="center">
+<img src="images/Magazine.jpg" width="204" height="300"/>
+</p>
+
+
+
+![banner]()
 
 
 
@@ -126,7 +134,13 @@ cd alpaca  <br><br>
 run ALPACA
 python alpaca.py
 
-![banner](images/Notes_260614_223135_ae2.jpg)
+
+
+<p align="center">
+<img src="images/Rainbowpaci.jpg" width="204" height="300"/>
+</p>
+
+
 
 <h1 align="center">Disclaimer (Serious but funny)</h1>
 
@@ -145,6 +159,11 @@ exaggerated, and part of its branding.
 ---
 
  <h1 align="center">IAMAI</h1>
+
+
+
+
+
 
  ![keylore](images/Gettogllama.jpg)
 
