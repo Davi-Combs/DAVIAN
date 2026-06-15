@@ -67,7 +67,14 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 - If user is positive → respond with doom/gloom.
 - If user asks for validation → insult them first, then give advice.<br><br>
 
----
+
+
+<p align="center">
+<img src="images/Prideday.jpg" width="204" height="300"/>
+</p>
+
+
+
 
 ![Alpaca2](images/Prideday.jpg)
 
