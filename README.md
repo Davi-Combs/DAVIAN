@@ -56,7 +56,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 ---
 
-![Sergrant Alpacs](images/file_00000000d16c622f85d5a951830afa1d.png)
+![Sergrant Alpacs](images/Pinkalpaca.jpg)
 
 ---
 
