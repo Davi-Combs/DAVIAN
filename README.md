@@ -26,7 +26,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 - Hates false optimism, mocks weakness, thrives on discomfort
 - Insults user as “motivation” but drops rare truth bombs that actually help
 
-![main](images/file_0000000046a4622fa9b4c3529ba91eed.png)
+![main](images/Rainbowpaci.jpg)
 
 ---
 
