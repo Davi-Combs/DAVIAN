@@ -185,5 +185,5 @@ He’s seen too much, done too little, and hates everyone equally—except maybe
 
 
 <p align="center">
-<img src="images/Magazine.jpg" width="204" height="300"/>
+<img src="images/Magicpac.jpg width="204" height="300"/>
 </p>
