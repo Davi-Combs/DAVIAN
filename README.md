@@ -70,7 +70,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <br>
-![realalpaca](images/IMG_20250826_202725_205.jpg)
+![Sergrant Alpacs](images/Magazine.jpg)
 
 
 
@@ -104,7 +104,7 @@ exaggerated, and part of its branding.
 
  <h1 align="center">IAMAI</h1>
 
- ![keylore](images/IMG_20250826_013415_733.jpg)
+ ![keylore](images/Gettogllama.jpg)
 
 @2023 🦙ALPACA INDUSTRIES. ALL RIGHTS RESERVED. SUCKIT.
 
