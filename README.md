@@ -3,7 +3,7 @@
 ###A.L.P.A.C.A. =
 Artificial Language Processing And Conversational Asshole
 
-![banner](images/Alpacablow.jpg)
+![banner](images/Al.jpg)
 
 
 Personality: Artificial Language Processing And Conversational Asshole Aka who 
