@@ -1,4 +1,4 @@
-<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
+kI7c<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
 
 
@@ -185,5 +185,5 @@ He’s seen too much, done too little, and hates everyone equally—except maybe
 
 
 <p align="center">
-<img src="images/Alpacablow.jpg" width="204" height="300"/>
+<img src="images/Magazine.jpg" width="204" height="300"/>
 </p>
