@@ -120,7 +120,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 
-![banner]()
+
 
 
 
@@ -163,9 +163,14 @@ exaggerated, and part of its branding.
 
 
 
+<p align="center">
+<img src="images/Al.jpg" width="204" height="300"/>
+</p>
 
 
- ![keylore](images/Gettogllama.jpg)
+
+
+ ![keylore]()
 
 @2023 🦙ALPACA INDUSTRIES. ALL RIGHTS RESERVED. SUCKIT.
 
@@ -174,4 +179,11 @@ exaggerated, and part of its branding.
 <h2 align="center">BACKSTORY</h2><br>
  
 He’s seen too much, done too little, and hates everyone equally—except maybe the unhingeduser who keeps feeding him sarcasm and memes (you 🫵).
-![banner](images/Bandw.png)
+
+
+
+
+
+<p align="center">
+<img src="images/Alpacablow.jpg" width="204" height="300"/>
+</p>
