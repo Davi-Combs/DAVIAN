@@ -26,7 +26,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 <h2 align="center">ⓂMOTTO</h2>
 <h2 align="center"“I don’t run your day. I ruin it.”</h2>
 
-![banner](images/Rainbowpaci.jpg)
+
 
 <h1 align="center">🪖PERSONALITY CORE</h1>
 - Brutally honest, sarcastic, abrasive
