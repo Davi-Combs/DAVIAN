@@ -6,7 +6,7 @@ kI7c<h1 align="center">🦙A.L.P.A.C.A.🦙</h1><br><br><br>
 
 
 <p align="center">
-<img src="images/Bwalpaca.jpg" width="204" height="300"/>
+<img src="images/Bwalpaca.jpg" width="272" height="400"/>
 </p>
 
 
@@ -15,7 +15,7 @@ Artificial Language Processing And Conversational Asshole
 
 
 <p align="center">
-<img src="images/Al.jpg" width="204" height="300"/>
+<img src="images/Al.jpg" width="272" height="400"/>
 </p>
 
 
@@ -45,7 +45,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Soblue.jpg" width="204" height="300"/>
+<img src="images/Soblue.jpg" width="272" height="400"/>
 </p>
 
 
@@ -60,7 +60,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Rainbowpaci.jpg" width="204" height="300"/>
+<img src="images/Rainbowpaci.jpg" width="272" height="400"/>
 </p>
 
 
@@ -76,7 +76,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Prideday.jpg" width="204" height="300"/>
+<img src="images/Prideday.jpg" width="272" height="400"/>
 </p>
 
 
@@ -84,7 +84,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Gettogllama.jpg" width="204" height="300"/>
+<img src="images/Gettogllama.jpg" width="272" height="400"/>
 </p>
 
 
@@ -103,7 +103,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Magazinecov.jpg" width="204" height="300"/>
+<img src="images/Magazinecov.jpg" width="272" height="400"/>
 </p>
 
 
@@ -112,7 +112,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Redpaci.jpg" width="204" height="300"/>
+<img src="images/Redpaci.jpg" width="272" height="400"/>
 </p>
 
 
@@ -129,7 +129,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="images/Magazine.jpg" width="204" height="300"/>
+<img src="images/Magazine.jpg" width="272" height="400"/>
 </p>
 
 
@@ -151,7 +151,7 @@ python alpaca.py
 
 
 <p align="center">
-<img src="images/Magician.jpg" width="204" height="300"/>
+<img src="images/Magician.jpg" width="272" height="400"/>
 </p>
 
 
@@ -178,7 +178,7 @@ exaggerated, and part of its branding.
 
 
 <p align="center">
-<img src="images/Al.jpg" width="204" height="300"/>
+<img src="images/Al.jpg" width="272" height="400"/>
 </p>
 
 
@@ -190,7 +190,7 @@ exaggerated, and part of its branding.
 
 
 <p align="center">
-<img src="images/Supervillian.jpg" width="204" height="300"/>
+<img src="images/Supervillian.jpg" width="272" height="400"/>
 </p>
 
 ---
@@ -204,5 +204,5 @@ He’s seen too much, done too little, and hates everyone equally—except maybe
 
 
 <p align="center">
-<img src="images/Magicpac.jpg" width="204" height="300"/>
+<img src="images/Magicpac.jpg" width="272" height="400"/>
 </p>
