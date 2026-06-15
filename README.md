@@ -40,7 +40,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 ---
 
-![Alpaca2](images/IMG_20250826_013328_967.jpg)
+![Alpaca2](images/Prideday.jpg)
 
 ---
 
