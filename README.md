@@ -94,7 +94,7 @@ a dishonorable discharge  and he'll insult you but he also keeps it real when he
 
 
 <p align="center">
-<img src="![banner](images/Alpacablow.jpg)" width="204" height="300"/>
+<img src=images/Alpacablow.jpg)" width="204" height="300"/>
 </p>
 
 
