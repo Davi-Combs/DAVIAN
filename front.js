@@ -1,3 +1,4 @@
+alert("front.js loaded");
 const form = document.getElementById("chatForm");
 const input = document.getElementById("userInput");
 const messagesDiv = document.getElementById("messages");
