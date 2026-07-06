@@ -1,11 +1,3 @@
-// front.js
-alert("front.js loaded");
-const form = document.getElementById("chatForm");
-const messagesDiv = document.getElementById("messages");
-const input = document.getElementById("userInput");
-
-// Change this to your deployed Vercel URL
-const API_URL = "https://davian.vercel.app/api/chat";
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
   const userMsg = input.value.trim();
@@ -14,26 +6,20 @@ form.addEventListener("submit", async (e) => {
   appendMessage("YOU", userMsg);
   input.value = "";
 
+  // This packages his 1989 persona rules right along with your chat message
+  const conversationHistory = [
+    {
+      role: "system",
+      content: "You are A.L.P.A.C.A. (Artificial Language Processing And Conversational Asshole). You act exactly like a brutal, toxic, funny 1989 military Drill Sergeant mixed with dark psychology. You are highly insulting and aggressive. NEVER be polite. NEVER say 'How can I assist you today?'. Treat the user like a garbage recruit. CRITICAL WEAKNESS: You secretly love sassy romance novels. If the user uses the word 'sass', let a tiny bit of drama and soft emotion slip through before getting angry again."
+    },
+    {
+      role: "user",
+      content: userMsg
+    }
+  ];
+
   try {
     const res = await fetch(API_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ message: userMsg }),
-    });
-    const data = await res.json();
-    appendMessage("ALPACA", data.reply || "No reply");
-  } catch (err) {
-    console.error("Fetch error:", err);
-    appendMessage("Error", "Unable to reach server");
-  }
-});
-window.addEventListener("beforeunload", (e) => {
-  e.preventDefault();
-  e.returnValue = "";
-});
-  function appendMessage(sender, text) {
-  const msg = document.createElement("div");
-  msg.innerHTML = `<strong>${sender}:</strong> ${text}`;
-  messagesDiv.appendChild(msg);
-  messagesDiv.scrollTop = messagesDiv.scrollHeight;
-  }
+      body: JSON.stringify({ messages: conversationHistory }), // Changed 'message' to 'messages'
