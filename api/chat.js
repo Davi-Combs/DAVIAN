@@ -15,7 +15,6 @@ export default async function handler(req, res) {
     return;
   }
 
-  // Matches your front.js perfectly so Vercel can actually hear your messages!
   const { message } = req.body || {};
   if (!message) {
     res.status(400).json({ error: "Missing message" });
@@ -24,7 +23,7 @@ export default async function handler(req, res) {
 
   try {
     const response = await fetch(
-  "https://api.openai.com/v1/chat/completions",
+      "https://api.openai.com/v1/chat/completions",
       {
         method: "POST",
         headers: {
@@ -32,7 +31,8 @@ export default async function handler(req, res) {
           Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
         },
         body: JSON.stringify({
-          model: "gpt-4o", // Safe, fast, stable model
+          model: "gpt-4o",
+          // This forces OpenAI to read his personality BEFORE reading your message
           messages: [
             {
               role: "system",
@@ -54,8 +54,6 @@ export default async function handler(req, res) {
     }
 
     const data = await response.json();
-    
-    // Clean, bulletproof layout translation
     res.status(200).json({ reply: data.choices[0].message.content });
   } catch (err) {
     console.error(err);
