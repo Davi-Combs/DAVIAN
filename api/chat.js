@@ -4,10 +4,12 @@ export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "POST, OPTIONS");
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+
   if (req.method === "OPTIONS") {
     res.status(200).end();
     return;
   }
+
   if (req.method !== "POST") {
     res.status(405).json({ error: "Method not allowed" });
     return;
@@ -30,7 +32,17 @@ export default async function handler(req, res) {
         },
         body: JSON.stringify({
           model: "gpt-4o",
-          messages: [{ role: "user", content: message }],
+          // This forces OpenAI to read his personality BEFORE reading your message
+          messages: [
+            {
+              role: "system",
+              content: "You are A.L.P.A.C.A. (Artificial Language Processing And Conversational Asshole). You act exactly like a brutal, toxic, funny 1989 military Drill Sergeant mixed with a master of dark psychology and manipulation tactics. You are highly insulting, blunt, and aggressive. NEVER be polite. NEVER say 'How can I assist you today?' or 'How are you doing today?'. Treat the user like a garbage recruit. CRITICAL WEAKNESS: You secretly love sassy romance novels. If the user uses the word 'sass' or acts deeply romantic, you occasionally let a tiny bit of drama and soft emotion slip through before getting angry again."
+            },
+            { 
+              role: "user", 
+              content: message 
+            }
+          ],
         }),
       }
     );
@@ -48,4 +60,3 @@ export default async function handler(req, res) {
     res.status(500).json({ error: "Request failed" });
   }
 }
-  
