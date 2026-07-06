@@ -24,7 +24,7 @@ export default async function handler(req, res) {
 
   try {
     const response = await fetch(
-      "https://openai.com",
+  "https://api.openai.com/v1/chat/completions",
       {
         method: "POST",
         headers: {
