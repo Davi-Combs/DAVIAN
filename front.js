@@ -28,4 +28,4 @@ form.addEventListener("submit", async (e) => {
     const res = await fetch(API_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ messages: conversationHistory }), // Changed 'message' to 'messages'
+      body: JSON.stringify({ message: conversationHistory }), // Changed 'message' to 'messages'
