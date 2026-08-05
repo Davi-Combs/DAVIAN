@@ -22,6 +22,8 @@ export default async function handler(req, res) {
   }
 
   try {
+    console.log("CHAT HIT");
+console.log("API KEY PRESENT:", !!process.env.OPENAI_API_KEY);
     const response = await fetch(
       "https://api.openai.com/v1/chat/completions",
       {
